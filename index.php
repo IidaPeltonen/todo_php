@@ -30,6 +30,7 @@ try {
     print json_encode($error);
 } 
 
+/*testing */
 /*     $sql = "select * from task";
     $query = $db->query($sql);
     $results  = $query->fetchAll(PDO::FETCH_ASSOC);
